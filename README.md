@@ -60,7 +60,7 @@ lib/
 ---
 
 ## ⚙️ Download
-![Click Here](app-release.apk)
+[Click Here](app-release.apk)
 
 
 ## 📦 Dependencies
