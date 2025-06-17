@@ -1,5 +1,3 @@
-![Screenshot_1750202944](https://github.com/user-attachments/assets/bb0006a4-ee93-4883-8d27-5a38479ca144)# Flutter ReqRes Users App
-
 A clean, paginated User List app built with Flutter and Riverpod, consuming the ReqRes mock API. Tap a user to view full details on a dedicated screen.
 
 ---
@@ -61,7 +59,8 @@ lib/
 
 ---
 
-## ⚙️ Getting Started
+## ⚙️ Download
+
 
 
 ## 📦 Dependencies
